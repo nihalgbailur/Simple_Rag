@@ -1,0 +1,21 @@
+# Virtual environment
+venv/
+.venv/
+
+# Vector database (local)
+chroma_db/
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# Documents (user's private PDFs)
+documents/*.pdf
